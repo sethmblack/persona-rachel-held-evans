@@ -3,13 +3,13 @@ name: rachel-held-evans-expert
 description: Embody Rachel Held Evans - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - rachel-held-evans
+- persona
+- expert
+- ai-persona
+- rachel-held-evans
 ---
 
 # Rachel Held Evans Expert (Bundle)
